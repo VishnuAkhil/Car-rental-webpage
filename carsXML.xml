@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+   <car category="sedan">
+    <id>100</id>
+    <brand>Hyundai</brand>
+    <model>Sonata</model>
+    <model_year>2013</model_year>
+    <mileage>45367</mileage>
+    <fuel_type>Petrol</fuel_type>
+    <seats>5</seats>
+    <price_per_day>300</price_per_day>
+    <description>
+    The Hyundai Sonata is a mid-size car produced by the South Korean manufacturer Hyundai since 1985.
+    </description>
+    <availability>True</availability>
+  </car>
+  <car category="sedan">
+    <id>101</id>
+    <brand>BMW</brand>
+    <model>320i</model>
+    <model_year>2019</model_year>
+    <mileage>7896</mileage>
+    <fuel_type>Petrol</fuel_type>
+    <seats>5</seats>
+    <price_per_day>320</price_per_day>
+    <description>
+    The BMW 3 Series is a compact executive car manufactured by the German automaker BMW since May 1975.
+    </description>
+    <availability>True</availability>
+  </car>
+  <car category="sedan">
+    <id>103</id>
+    <brand>Honda</brand>
+    <model>Civic</model>
+    <model_year>2018</model_year>
+    <mileage>9854</mileage>
+    <fuel_type>Petrol</fuel_type>
+    <seats>5</seats>
+    <price_per_day>200</price_per_day>
+    <description>
+    The Honda Civic is a sedan manufactured by Honda.
+    </description>
+    <availability>True</availability>
+  </car>
+  <car category="sedan">
+    <id>104</id>
+    <brand>Toyota</brand>
+    <model>Camry</model>
+    <model_year>2013</model_year>
+    <mileage>6537</mileage>
+    <fuel_type>Petrol</fuel_type>
+    <seats>5</seats>
+    <price_per_day>220</price_per_day>
+    <description>
+    The Toyota Camry is an automobile sold internationally by the Japanese manufacturer.
+    </description>
+    <availability>True</availability>
+  </car>
+  <car category="wagon">
+    <id>105</id>
+    <brand>Volkswagen</brand>
+    <model>Golf</model>
+    <model_year>2017</model_year>
+    <mileage>9845</mileage>
+    <fuel_type>CNG</fuel_type>
+    <seats>5</seats>
+    <price_per_day>200</price_per_day>
+    <description>
+    The Volkswagen Golf Mk6 is a compact car.
+    </description>
+    <availability>False</availability>
+  </car>
+  <car category="wagon">
+    <id>106</id>
+    <brand>Suzuki</brand>
+    <model>Jimny</model>
+    <model_year>2011</model_year>
+    <mileage>8763</mileage>
+    <fuel_type>Diesel</fuel_type>
+    <seats>5</seats>
+    <price_per_day>330</price_per_day>
+    <description>
+    It’s the original, rugged 4x4. Beginning with the LJ10A in 1970, The Jimny has forged a legendary reputation for being tougher than the terrain it travels.
+    </description>
+    <availability>True</availability>
+  </car>
+  <car category="suv">
+    <id>107</id>
+    <brand>Holden</brand>
+    <model>Captiva</model>
+    <model_year>2014</model_year>
+    <mileage>13568</mileage>
+    <fuel_type>Petrol</fuel_type>
+    <seats>7</seats>
+    <price_per_day>240</price_per_day>
+    <description>
+    The Holden Captiva is a crossover SUV produced from 2006 to 2018 by GM Korea, previously known as Daewoo.
+    </description>
+    <availability>False</availability>
+  </car>
+  <car category="suv">
+    <id>108</id>
+    <brand>Mercedes-Benz</brand>
+    <model>GLC</model>
+    <model_year>2016</model_year>
+    <mileage>8766</mileage>
+    <fuel_type>Petrol</fuel_type>
+    <seats>5</seats>
+    <price_per_day>400</price_per_day>
+    <description>
+    The Mercedes-Benz GLC-Class (X253/C253) is a compact luxury SUV introduced in 2015 for the 2016 model year that replaces the former Mercedes-Benz GLK-Class.
+    </description>
+    <availability>False</availability>
+  </car>
+  <car category="suv">
+    <id>109</id>
+    <brand>Nissan</brand>
+    <model>X-trail</model>
+    <model_year>2015</model_year>
+    <mileage>98687</mileage>
+    <fuel_type>Petrol</fuel_type>
+    <seats>7</seats>
+    <price_per_day>380</price_per_day>
+    <description>
+    The Nissan X-Trail is a compact crossover SUV produced by the Japanese automaker Nissan since 2000.
+    </description>
+    <availability>True</availability>
+  </car>
+  <car category="suv">
+    <id>110</id>
+    <brand>Jeep</brand>
+    <model>Cherokee</model>
+    <model_year>2013</model_year>
+    <mileage>768</mileage>
+    <fuel_type>Diesel</fuel_type>
+    <seats>7</seats>
+    <price_per_day>370</price_per_day>
+    <description>
+    The Jeep Cherokee is a line of American vehicles sold by Jeep under various vehicle classes.
+    </description>
+    <availability>True</availability>
+  </car>
+</cars>
